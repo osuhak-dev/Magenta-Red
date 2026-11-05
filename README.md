@@ -1,0 +1,1 @@
+This repo dedicated to development of adventure game Magenta Red.
